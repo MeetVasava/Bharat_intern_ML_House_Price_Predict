@@ -21,3 +21,14 @@ Adjust hyperparameters or try different algorithms to improve the model’s accu
 Deploy the robust model into a real-world application for predicting house prices based on user inputs.
 
 ## house dataset which will be having columns 
+
+* **date**
+* **price**
+* **bedrooms**
+* **bathrooms**
+* **sqft_living**
+* **sqft_lot**
+* **floors**
+* **waterfront**
+* **view**
+* **condition**
