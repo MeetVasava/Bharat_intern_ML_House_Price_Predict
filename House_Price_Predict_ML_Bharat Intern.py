@@ -7,7 +7,7 @@
 # # PROJECT NAME - **HOUSE PRICE PREDICTION**
 
 # ## Github Link
-# ## https://github.com/MeetVasava/Bharat_intern_iris_flowers_classification
+# ## https://github.com/MeetVasava/Bharat_intern_ML_House_Price_Predict
 
 # #  Dataset Exploration and Preprocessing
 
